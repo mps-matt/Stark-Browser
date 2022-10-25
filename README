@@ -1,0 +1,4 @@
+Minimal Browser developed in SwiftUI using an IPad.
+
+Long press on the screen to change url.
+Forward and Backward navigation through left and right swipe gestures
